@@ -16,4 +16,4 @@ The app is still raw, therefore here are the steps:
 - click on Stop when you are done
 - wait about 10 seconds for the results
 
-Version submitted: 0.1
+Version submitted: **0.1** (download the repository as a zip and you can just click on the app)
